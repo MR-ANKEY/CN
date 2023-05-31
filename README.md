@@ -10,3 +10,4 @@ or copy paste code in command window
 exp6 output is of one line only in command window
 
 exp8 takes time to show output
+if not running try in matlab
